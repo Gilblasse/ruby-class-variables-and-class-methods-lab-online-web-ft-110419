@@ -1,6 +1,6 @@
 class Song 
   
-  def new(name,artist,genre)
+  def initilize(name,artist,genre)
     
   end
 end
